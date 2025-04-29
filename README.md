@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a first year computer engineering student at the University of Waterloo, passionate about exploring the realm of machine learning, firmware, and full-stack development.
+I'm a second year computer engineering student at the University of Waterloo, passionate about exploring the realm of machine learning, firmware, and full-stack development.
 
 
 # 💻 Tech Stack:
